@@ -1,0 +1,5 @@
+1.  Streamlit: A Python Library for Building Web Apps
+Streamlit is an open-source Python library that allows you to 
+create interactive web applications for data science and machine 
+learning with minimal code. It is widely used for building dashboards, 
+visualizing data, and deploying machine learning models.
